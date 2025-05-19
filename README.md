@@ -2,5 +2,8 @@ Bu oyun, Python ve Pygame kullanılarak geliştirilmiş basit bir uçuş oyunudu
 
 Özellikler:
 Akıcı uçuş mekaniği
+
 Engellerden kaçınma
+
 Yıldızları toplayarak puan kazanma
+
